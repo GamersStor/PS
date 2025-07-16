@@ -3,10 +3,7 @@ html, body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-  background-image: url('https://github.com/user-attachments/assets/2af47fd9-9cce-4e8b-8fe8-1996f25e6292');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+    background: url('https://github.com/user-attachments/assets/2af47fd9-9cce-4e8b-8fe8-1996f25e6292');
 }
 
 body {
